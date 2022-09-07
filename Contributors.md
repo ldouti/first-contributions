@@ -30,6 +30,7 @@
 - [Mat](https://github.com/raipidddd0ex)
 - [Ryan](https://github.com/EntropyUF)
 - [Diya Goyal](https://github.com/diyagoyal98)
+- Lamp Dou
 - [jatinseh](https://github.com/jatinseh)
 - [Alex Servin](https://github.com/aservin6)
 - [Shrikant Wankhade](https://github.com/Shrikant-Wankhade)
